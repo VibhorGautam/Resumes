@@ -1,0 +1,84 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Faijan V.",
+    "label": "Exploring and Sharing Real World Stuffs related to AI, ML, Data Science and Other Emerging Technologies! ",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Building Things That Matter in Emerging Tech Space!",
+    "location": {
+      "countryCode": "US",
+      "address": "India"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "faijanofficial",
+        "url": "https://www.linkedin.com/in/faijanofficial/"
+      },
+      {
+        "network": "Twitter",
+        "username": "FaijanOfficial",
+        "url": "https://twitter.com/FaijanOfficial"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Indus University Ahmedabad",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Technology - BTech",
+      "startDate": "2017-12-31",
+      "endDate": "2021-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Entrepreneurship",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Product Innovation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Marketing Expert",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
